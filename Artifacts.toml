@@ -1,236 +1,174 @@
 [[Clingcon]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f7ccec0054f007bbb9bec5e8f7fb51e77fe2aa1d"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "4eae9d10a4dda516f254496736e18fcf5788b7ae6b047f21f967f5f541b4ee11"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.aarch64-linux-gnu-cxx03.tar.gz"
-[[Clingcon]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c2cad2247094c1850b8ea23c979708fed1dbe28b"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "b030feaf54f497d0307f80c697acc2571d3d9219383e2c86802a39f99915531a"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.aarch64-linux-gnu-cxx11.tar.gz"
-[[Clingcon]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f69c6911a793fc1189c2c8d4e9dacea156f27b7d"
-libc = "musl"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "697cf6f2c155442f5f8dfffa165ef62d71c013c5cbf9c17ee0eddb0c36e1af3c"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.aarch64-linux-musl-cxx03.tar.gz"
-[[Clingcon]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "533de502558f4ce2e83cd94c42de2969945b1f5b"
-libc = "musl"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "8adcc4e0d17b6cbce51d86ffd1dd53ff4830809cd9c8aaa45bfdb77f9a3ab743"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.aarch64-linux-musl-cxx11.tar.gz"
-[[Clingcon]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "220d252ced41cc13ddf9f3fcd2b8412fc36e6d90"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "e8b5063187671d562a36223600e17937d515eaea241c9d2169e91d20c0b1ebeb"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[Clingcon]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "39e1ade932fe0d3244512f5022117eaedf94b777"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "d767967255ea47d1f0b398fb9590e5a6e36526cb202ba81e1ded90468d91877f"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[Clingcon]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2cc98f4c49ba56035b22fae564cdfca3d7dea7a5"
-libc = "musl"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "ba6d49a537a67b19dec7fd182f4b1e46357bc46a783f76d0c61737c635588687"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[Clingcon]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "fe41a495c6444c29e4758e2ccf901b9db19d4792"
-libc = "musl"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "c8e0386e23e9d9633b9b663733586c9c721310ef8d99aadee3ada3e998da57d6"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[Clingcon]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "41c66687ff45add61e1bcc6c30aed99b2fd6cc27"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "bad69fa795e2e6ab76d047e7cf16834195c8c318e0f00c92dd290a91fc211beb"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.i686-linux-gnu-cxx03.tar.gz"
-[[Clingcon]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "144926694f67b5dc937e61f1b30ccf2efb13e342"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "c4c12d7b8d615f5fbc549f15c6b7e69a937eca6ad76e4c4ee55c2a656a9a8d86"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.i686-linux-gnu-cxx11.tar.gz"
-[[Clingcon]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "78a487bd9514ae98fea86b4033f41e3d6c1c16a2"
-libc = "musl"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "6ac3607b0ac506c81b797326d2e87cb55bce4865cd968de8941e7cc79e2f3fef"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.i686-linux-musl-cxx03.tar.gz"
-[[Clingcon]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "16a0302259a1b24c41acf77aae1544075ab2f180"
-libc = "musl"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "f7044b6ac7891e029e58edb2986023de2481aba7cdfd0f06b111bc3c6d03698a"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.i686-linux-musl-cxx11.tar.gz"
-[[Clingcon]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6d279e9c54872774c133221b5504d8025dedee21"
-os = "windows"
-
-    [[Clingcon.download]]
-    sha256 = "62beb4e5d518636f55e0b3a69be452b96300edad8fe43d6fc74a88bda5f04592"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.i686-w64-mingw32-cxx03.tar.gz"
-[[Clingcon]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "83669693b1080a04863f48afa910550f20f4a4a4"
-os = "windows"
-
-    [[Clingcon.download]]
-    sha256 = "815165f4578ff6904549d1178e08a2d7e42f09f28b70cec510c59d02639e9b9f"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.i686-w64-mingw32-cxx11.tar.gz"
-[[Clingcon]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "69acda48c2672e70764e8ac52ff62a3e2c43a55e"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "1f84ef7352aab806470b7283d8978b1dd02a5cf293c8a34d5b8647ffbe01557a"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[Clingcon]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0c88eb81131c26b751ffefdf9048e3ba53efc524"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "baa3d8e9c75621d1c716fad70bf4a149c8850605b040641b0a84e7cc3107c69a"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[Clingcon]]
-arch = "x86_64"
-git-tree-sha1 = "dfe9f452257d2f0ed68ac342302db7924cbdf018"
+git-tree-sha1 = "43a22d561972c003afc2783a7d3c69b80d6b9052"
 os = "macos"
 
     [[Clingcon.download]]
-    sha256 = "80f0f00a158ebc0229f0466d54bac696c250da8ee5ed132c9361768605219620"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "f4130bcb9d838ff43419e37823d17e07fbdfb9cb192b241f2394681903638904"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.aarch64-apple-darwin.tar.gz"
 [[Clingcon]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "de600afc6325112300d8185b597ac3207d776630"
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be1fbf8cae4a13848ee49f9e627b8f83a0184a7d"
 libc = "glibc"
 os = "linux"
 
     [[Clingcon.download]]
-    sha256 = "db759693ce4d27a885c53b0b1c4e13530a1d6169d22dbefe71d799c971acad8a"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5bb619278cefcc2ad9d6e65dac61c02644895b19b52cf60f415430ef9f653f88"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Clingcon]]
-arch = "x86_64"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bdbda9b95c75e4b9b2855caa9245ef55fad8f1f3"
-libc = "glibc"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "97d9748b3324bbe26dd3090e5c42925fb08cea1aa34594819b7065a354785fe2"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[Clingcon]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "679c96aee46123a2bed7aec297ab9cfb72ee8ef0"
+git-tree-sha1 = "13c629316837f4d1a60e4c78f995a4e8ed994ce7"
 libc = "musl"
 os = "linux"
 
     [[Clingcon.download]]
-    sha256 = "e7aea0fd5295612950eb6f55d892fe92c4d4eb960823045dd3613350fcd58fba"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "9edcc0d9315211c57d2eb34be5ec933043556a410daee754fa89af19ea3304e2"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Clingcon]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "38868b849d603944ae054e01fe3b8c52136bba09"
-libc = "musl"
-os = "linux"
-
-    [[Clingcon.download]]
-    sha256 = "da8ee98926f588b65f86daf7fad0ec112e0261572f817c94d815d5277e80f6ce"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.x86_64-linux-musl-cxx11.tar.gz"
-[[Clingcon]]
-arch = "x86_64"
-git-tree-sha1 = "939f3d6fdb6a3a702e72235dd9ae040f459daa09"
+arch = "aarch64"
+git-tree-sha1 = "3be2e1b5efde9175d04bb4625b63c8d84243d07a"
 os = "freebsd"
 
     [[Clingcon.download]]
-    sha256 = "338e65663ec026c644a8f3224c88d5cbd59e08c3d49e7fe6a964779077888405"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "77dd83f7c31da170269f88a7b7fa676ac35e2f762d689f5d6bf4fd23e7ab38fa"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.aarch64-unknown-freebsd.tar.gz"
 [[Clingcon]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca2338a0bdc6201a4b3efc83657a693b0da48be4"
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b5358be1eceee1481f8af04dd36e21fc4c97a14"
+libc = "glibc"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "5c7d2553f7ed486dc0707beebc2ea9492a93b3b350c981908bdeca3e469b4ae5"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Clingcon]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "acac0a5143ca8c520ef6382da0a1d1db1667d919"
+libc = "musl"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "e8f12e3655633ea0545896c8fcc0325729857df12e0e9e2979ac4d2344c01c7c"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Clingcon]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d022667a7b603dcfe1613a56fa3b90ec51c13d1a"
+libc = "glibc"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "7b67925e1aac6ca0ae4bf7487a8c92532315d18b639583a97c3e7d77ff064c76"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Clingcon]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4cc8d724068d176d04cc06bfbee481e34ed7508"
+libc = "musl"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "30b36d79ac9b342d6bbf2c913fb0d0dd9cdacaf30c211a96426cb58a9820c831"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Clingcon]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "00f77511cf147e6a3fca6f8c41cf1bcf5c97328a"
+libc = "glibc"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "a4311c9483a6eee9b0e18ec2684b9cfe610ae069496c8fd53d0772fb4b1091ff"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.i686-linux-gnu-cxx11.tar.gz"
+[[Clingcon]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f602857d7aa7f73d76dda55ff0530775b29abc6c"
+libc = "musl"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "c8bb399dcad1757c673dfd1be2e70a46f7b14bcb37770f3d56d031a64dc3cbd6"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.i686-linux-musl-cxx11.tar.gz"
+[[Clingcon]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "647e71a16029bd4ea66eeafa991547681129eac1"
 os = "windows"
 
     [[Clingcon.download]]
-    sha256 = "9f523bfd46cb8cf11900b9aa399c6050b2264c958dc8bc13c5feb54fb58ac929"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "f5ce2dba3a1b983df84f5b7da336a73941d04fbea10a1502a66d69160e1b3ee9"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.i686-w64-mingw32-cxx11.tar.gz"
+[[Clingcon]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e1b21a848dea83b7d04dedbd8cb8d9b23431e6d4"
+libc = "glibc"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "52ea9cba2b0e7ce0fb81ff4e82a1ec4df787621a14e33cd0f68f90df3e970f52"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Clingcon]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7bfcd9e8fda4ee134789a4ccd4d6af8423b671cf"
+libc = "glibc"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "dc0e14e954f1d533663dd121b4e4f3dd945dcde3cff6029d5499b332e6f162f1"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[Clingcon]]
+arch = "x86_64"
+git-tree-sha1 = "587031c7c628c4db5101695542bdce3cc8d1ba2b"
+os = "macos"
+
+    [[Clingcon.download]]
+    sha256 = "a9a2f885a76af37795bcefa91d9a161780162f1d72defd6e542c9d7a2c681715"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.x86_64-apple-darwin.tar.gz"
 [[Clingcon]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c07d80ab13af8b9bdef779826c144695da234e90"
+git-tree-sha1 = "1247ba5d06ed1cc8ba539e4e47604aa1deb4d583"
+libc = "glibc"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "36dda9fcc37f806be1f83c1cb37d88887b2342078faeeedd5581489d974461a0"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[Clingcon]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e2022f4c9fdb7cbf60f3799ef0b0ab1286dd7f05"
+libc = "musl"
+os = "linux"
+
+    [[Clingcon.download]]
+    sha256 = "f13deed282545f22e0a793c8f8d20477003b20bd682051bf767ad43987be4444"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.x86_64-linux-musl-cxx11.tar.gz"
+[[Clingcon]]
+arch = "x86_64"
+git-tree-sha1 = "318f0866157d4715d017248e8f3ffd4e915281e0"
+os = "freebsd"
+
+    [[Clingcon.download]]
+    sha256 = "678307fd03ca3ae0c2a2279ef995880ee58e09a370f462be6c4808f2ddd13456"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.x86_64-unknown-freebsd.tar.gz"
+[[Clingcon]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "53d039d64264bbbf7b4fc8702aa1c78084d5a387"
 os = "windows"
 
     [[Clingcon.download]]
-    sha256 = "a58c97ae74f4de51cd1d796517aadef950fd5d850c61ebc5857872e2eb0f0f98"
-    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.0.0+0/Clingcon.v5.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8236d13074f1ab0dfac9ccf32c9aff42e623892dbdd92386d373dac0682413b0"
+    url = "https://github.com/JuliaBinaryWrappers/Clingcon_jll.jl/releases/download/Clingcon-v5.2.1+0/Clingcon.v5.2.1.x86_64-w64-mingw32-cxx11.tar.gz"

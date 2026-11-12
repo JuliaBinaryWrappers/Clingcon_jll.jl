@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Clingcon")
-JLLWrappers.@generate_main_file("Clingcon", UUID("f3fadb3f-5422-5a6c-be27-a20f6ffb29ff"))
+JLLWrappers.@generate_main_file("Clingcon", Base.UUID("f3fadb3f-5422-5a6c-be27-a20f6ffb29ff"))
 end  # module Clingcon_jll
